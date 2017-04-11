@@ -1,0 +1,725 @@
+GNU gdb (Ubuntu 7.7.1-0ubuntu5~14.04.2) 7.7.1
+Copyright (C) 2014 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.  Type "show copying"
+and "show warranty" for details.
+This GDB was configured as "x86_64-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<http://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+<http://www.gnu.org/software/gdb/documentation/>.
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from /home/default/swftools_asan/src/pdf2swf...done.
+Function "__asan_report_error" not defined.
+Breakpoint 1 (__asan_report_error) pending.
+Starting program: /home/default/swftools_asan/src/pdf2swf /home/default/swftools_afl/test_d_new/crashes/id:000117,sig:11,src:000073,op:havoc,rep:2
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+NOTICE  Output filename not given. Writing to id:000117,sig:11,src:000073,op:havoc,rep:2.swf
+Error: PDF file is damaged - attempting to reconstruct xref table...
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+NOTICE  processing PDF page 1 (200x50:0:0)
+NOTICE  File contains forms
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+Error (636): Unknown operator 'es'
+Error (659): Dictionary key must be a name object
+Error (662): Dictionary key must be a name object
+Error (664): Dictionary key must be a name object
+Error (666): Dictionary key must be a name object
+Error (677): Dictionary key must be a name object
+Error (685): Dictionary key must be a name object
+Error (688): Dictionary key must be a name object
+Error (690): Dictionary key must be a name object
+Error (694): Dictionary key must be a name object
+Error (698): Dictionary key must be a name object
+Error (706): Dictionary key must be a name object
+Error (726): Unknown operator 'stream'
+ERROR   Error: Incompatible change of text rendering to 0 while inside cliptext
+
+Program received signal SIGSEGV, Segmentation fault.
+0x0000000000671343 in dumpLine (w=w@entry=0x604400009a48, state=state@entry=0x604400009688, line=line@entry=0x4080f13333333333) at devices/record.c:112
+112		if(line->type == gfx_moveTo) {
+Continuing.
+ASAN:SIGSEGV
+=================================================================
+==58756== ERROR: AddressSanitizer: SEGV on unknown address 0x000000000000 (pc 0x000000671343 sp 0x7ffffffedf50 bp 0x604400009a48 T0)
+AddressSanitizer can not provide additional info.
+    #0 0x671342 (/home/default/swftools_asan/src/pdf2swf+0x671342)
+    #1 0x6716ad (/home/default/swftools_asan/src/pdf2swf+0x6716ad)
+    #2 0x5a32a8 (/home/default/swftools_asan/src/pdf2swf+0x5a32a8)
+    #3 0x5a343e (/home/default/swftools_asan/src/pdf2swf+0x5a343e)
+    #4 0x54064b (/home/default/swftools_asan/src/pdf2swf+0x54064b)
+    #5 0x540973 (/home/default/swftools_asan/src/pdf2swf+0x540973)
+    #6 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #7 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #8 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #9 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #10 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #11 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #12 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #13 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #14 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #15 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #16 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #17 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #18 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #19 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #20 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #21 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #22 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #23 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #24 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #25 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #26 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #27 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #28 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #29 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #30 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #31 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #32 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #33 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #34 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #35 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #36 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #37 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #38 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #39 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #40 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #41 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #42 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #43 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #44 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #45 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #46 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #47 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #48 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #49 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #50 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #51 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #52 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #53 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #54 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #55 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #56 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #57 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #58 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #59 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #60 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #61 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #62 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #63 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #64 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #65 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #66 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #67 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #68 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #69 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #70 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #71 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #72 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #73 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #74 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #75 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #76 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #77 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #78 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #79 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #80 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #81 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #82 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #83 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #84 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #85 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #86 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #87 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #88 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #89 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #90 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #91 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #92 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #93 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #94 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #95 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #96 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #97 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #98 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #99 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #100 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #101 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #102 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #103 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #104 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #105 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #106 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #107 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #108 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #109 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #110 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #111 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #112 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #113 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #114 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #115 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #116 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #117 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #118 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #119 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #120 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #121 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #122 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #123 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #124 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #125 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #126 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #127 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #128 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #129 0x54293e (/home/default/swftools_asan/src/pdf2swf+0x54293e)
+    #130 0x549332 (/home/default/swftools_asan/src/pdf2swf+0x549332)
+    #131 0x549c91 (/home/default/swftools_asan/src/pdf2swf+0x549c91)
+    #132 0x52c467 (/home/default/swftools_asan/src/pdf2swf+0x52c467)
+    #133 0x52c7cc (/home/default/swftools_asan/src/pdf2swf+0x52c7cc)
+    #134 0x52cf16 (/home/default/swftools_asan/src/pdf2swf+0x52cf16)
+    #135 0x509d2e (/home/default/swftools_asan/src/pdf2swf+0x509d2e)
+    #136 0x50a0d8 (/home/default/swftools_asan/src/pdf2swf+0x50a0d8)
+    #137 0x4b12f8 (/home/default/swftools_asan/src/pdf2swf+0x4b12f8)
+    #138 0x4a5d70 (/home/default/swftools_asan/src/pdf2swf+0x4a5d70)
+    #139 0x4a5f89 (/home/default/swftools_asan/src/pdf2swf+0x4a5f89)
+    #140 0x40844b (/home/default/swftools_asan/src/pdf2swf+0x40844b)
+    #141 0x7ffff3b76f44 (/lib/x86_64-linux-gnu/libc-2.19.so+0x21f44)
+    #142 0x4048c8 (/home/default/swftools_asan/src/pdf2swf+0x4048c8)
+==58756== ABORTING
+[Inferior 1 (process 58756) exited with code 01]
